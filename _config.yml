@@ -1,26 +1,26 @@
 # Site settings
 email: 
 baseurl: "/Blog"
-paginate: 5
+paginate: 6
 paginate_path: "/Blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
+title: Biting Bits
+description: A Blog on Software and Technolgy.
 url: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: Gajesh Bhat
 profile_img: 
 profile: 
 social:
-  github: 
+github: https://github.com/gajeshbhat
 
 # Build settings
-exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE.txt"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
