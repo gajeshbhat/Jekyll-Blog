@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: gajeshbht@gmail.com
 baseurl: "/Blog"
 paginate: 6
 paginate_path: "/Blog/page-:num"
