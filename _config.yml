@@ -17,7 +17,7 @@ name: Gajesh Bhat
 profile_img: 
 profile: 
 social:
-github: https://github.com/gajeshbhat
+github: gajeshbhat
 
 # Build settings
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE.txt"]
